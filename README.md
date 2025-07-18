@@ -77,4 +77,4 @@ How to make predictions for unseen values
 How to visualize data and regression line
 
 📚 Tech Stack
-Pytho, pandas, matplotlib, scikit-learn
+Python, pandas, matplotlib, scikit-learn
